@@ -1,0 +1,17 @@
+.avatar {
+  height: 90px;
+  width: 90px;
+}
+.name {
+  margin: 0;
+  font-size: 32px;
+}
+.status {
+  font-size: 24px;
+}
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}

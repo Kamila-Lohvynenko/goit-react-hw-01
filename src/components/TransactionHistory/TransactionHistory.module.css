@@ -1,0 +1,15 @@
+.table {
+  width: 100%;
+
+  border: 3px solid rgb(88, 104, 111);
+  font-size: 32px;
+}
+.tableBody tr:nth-child(odd) {
+  background-color: rgb(203, 246, 246);
+}
+.tableBody tr:nth-child(even) {
+  background-color: rgb(221, 223, 224);
+}
+.tableHead {
+  background-color: rgb(4, 173, 173);
+}

@@ -1,0 +1,42 @@
+.card {
+  height: 460px;
+  width: 370px;
+
+  padding: 50px;
+
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 20px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 30%);
+}
+
+.avatar {
+  height: 200px;
+  width: 200px;
+
+  background-color: rgb(187, 195, 205);
+  border-radius: 50%;
+}
+
+.name {
+  margin: 0;
+
+  font-size: 42px;
+  font-weight: 700;
+}
+
+.stats {
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+  padding: 0;
+
+  font-size: 32px;
+
+  background-color: azure;
+}
+.statsName {
+  display: block;
+}
+.amount {
+  font-weight: 600;
+}
